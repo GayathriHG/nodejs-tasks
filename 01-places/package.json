@@ -1,0 +1,23 @@
+{
+  "name": "01-places",
+  "version": "1.0.0",
+  "description": "listing the places to visit in Karnataka",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GayathriHG/nodejs-tasks.git"
+  },
+  "keywords": [
+    "nodejs",
+    "places"
+  ],
+  "author": "Gayathri H G",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/GayathriHG/nodejs-tasks/issues"
+  },
+  "homepage": "https://github.com/GayathriHG/nodejs-tasks#readme"
+}
