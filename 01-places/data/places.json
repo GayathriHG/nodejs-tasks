@@ -1,0 +1,56 @@
+[
+  {
+    "id": 1,
+    "city": "Bangalore",
+    "placesToVisit": [
+      {
+        "place": "Nandi Hills",
+        "desc": "Beautiful sunrise view in the morning and cool atmosphere"
+      },
+      {
+        "place": "Libraby",
+        "desc": "Must visit place to read books or study"
+      },
+      {
+        "place": "Cubbon park",
+        "desc": "Must visit weekend events , like painting , reading books or for a picnic"
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "city": "Mysuru",
+    "placesToVisit": [
+      {
+        "place": "Mysuru Palace",
+        "desc": "Explore the Wadiyar Dynasty and the palace and the rich heritage"
+      },
+      {
+        "place": "KRS Dam",
+        "desc": "Constructed by Sir M Visvesvaraya for reserving water sources , must watch light show in evenings"
+      },
+      {
+        "place": "Chamundi Betta",
+        "desc": "Named after the Goddess Chamundeshwari , located at the top of the hill,enjoy the always drizzling and cool weather"
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "city": "Mangalore",
+    "PlacesToVisit": [
+      {
+        "place": "Murudeshwara",
+        "desc": "Visit the beach and also the statue of Lord Shiva"
+      },
+      {
+        "place": "Nisarga Dhama",
+        "desc": "Visit the theme park which promotes eco-education and nature"
+      },
+      {
+        "place": "Sultan Battery",
+        "desc": "A monumental tower constructed where soldires kept looking for invaders and stop them "
+      }
+    ]
+  }
+]
